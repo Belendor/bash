@@ -1,0 +1,12 @@
+Yes >> dig.txt
+		else
+			echo localhost,: -c: line 6: syntax error: unexpected end of file
+Yes >> dig.txt
+		else
+			echo google.com,: -c: line 6: syntax error: unexpected end of file
+Yes >> dig.txt
+		else
+			echo my.site.com,: -c: line 6: syntax error: unexpected end of file
+Yes >> dig.txt
+		else
+			echo meh.meh,: -c: line 6: syntax error: unexpected end of file
